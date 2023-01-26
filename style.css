@@ -1,0 +1,42 @@
+
+body {
+  line-height: 1.6;
+  background-color: #0f0f0f;
+  color: white;
+  font-family: sans-serif;
+  max-width: 450px;
+  margin: 30px auto;
+  padding: 0 16px;
+}
+
+h1 {
+  font-size: 18px;
+}
+
+section > li {  /* used for listing of blog entries atm */
+  list-style-type: square;
+}
+
+a:link {
+  color: lightskyblue;
+  text-decoration: none;
+}
+
+a:visited {
+  color: violet;
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+#last-edited {
+  font-size: small;
+  padding-left: 20px;
+}
+
+footer {
+  position: absolute;
+  bottom: 30px;
+}
