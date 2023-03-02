@@ -36,6 +36,10 @@ a:hover {
   padding-left: 20px;
 }
 
+body > header > nav > ul {
+  list-style-type: none;
+}
+
 footer {
   position: absolute;
   bottom: 30px;
