@@ -37,7 +37,7 @@ a:hover {
 }
 
 body > header > nav {
-  text-align: right;
+  text-align: center;
 }
 body > header > nav > * {
   margin-right: 16px;
