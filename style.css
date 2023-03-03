@@ -36,8 +36,11 @@ a:hover {
   padding-left: 20px;
 }
 
-body > header > nav > ul {
-  list-style-type: none;
+body > header > nav {
+  text-align: right;
+}
+body > header > nav > * {
+  margin-right: 16px;
 }
 
 footer {
