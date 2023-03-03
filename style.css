@@ -13,8 +13,9 @@ h1 {
   font-size: 18px;
 }
 
-section > li {  /* used for listing of blog entries atm */
-  list-style-type: square;
+ul#blog-entries {
+  list-style-type: none;
+  padding-left: 0;
 }
 
 a:link {
