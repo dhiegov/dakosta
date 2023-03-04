@@ -21,11 +21,9 @@ ul#blog-entries {
 a:link {
   color: lightskyblue;
 }
-
 a:visited {
   color: violet;
 }
-
 a:hover {
   text-decoration: none;
 }
