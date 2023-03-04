@@ -1,42 +1,42 @@
 
 body {
-  line-height: 1.6;
-  background-color: #090013;
-  color: #CCC;
-  font-family: sans-serif;
-  max-width: 450px;
-  margin: 30px auto;
-  padding: 0 16px;
+	line-height: 1.6;
+	background-color: #090013;
+	color: #CCC;
+	font-family: sans-serif;
+	max-width: 450px;
+	margin: 30px auto;
+	padding: 0 16px;
 }
 
 h1 {
-  font-size: 18px;
+	font-size: 18px;
 }
 
 ul#blog-entries {
-  list-style-type: none;
-  padding-left: 0;
+	list-style-type: none;
+	padding-left: 0;
 }
 
 a:link {
-  color: lightskyblue;
+	color: lightskyblue;
 }
 a:visited {
-  color: violet;
+	color: violet;
 }
 a:hover {
-  text-decoration: none;
+	text-decoration: none;
 }
 
 #last-edited {
-  font-size: small;
-  padding-left: 20px;
+	font-size: small;
+	padding-left: 20px;
 }
 
 body > header > nav {
-  text-align: center;
+	text-align: center;
 }
 body > header > nav > * {
-  margin-right: 16px;
+	margin-right: 16px;
 }
 
