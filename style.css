@@ -20,16 +20,14 @@ ul#blog-entries {
 
 a:link {
   color: lightskyblue;
-  text-decoration: none;
 }
 
 a:visited {
   color: violet;
-  text-decoration: none;
 }
 
 a:hover {
-  text-decoration: underline;
+  text-decoration: none;
 }
 
 #last-edited {
