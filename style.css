@@ -6,37 +6,22 @@ body {
 	font-family: sans-serif;
 	max-width: 450px;
 	margin: 30px auto;
-	padding: 0 16px;
-}
+	padding: 0 16px; }
 
-h1 {
-	font-size: 18px;
-}
+h1 { font-size: 18px; }
 
 ul#blog-entries {
 	list-style-type: none;
-	padding-left: 0;
-}
+	padding-left: 0; }
 
-a:link {
-	color: lightskyblue;
-}
-a:visited {
-	color: violet;
-}
-a:hover {
-	text-decoration: none;
-}
+a:link { color: lightskyblue; }
+a:visited { color: violet; }
+a:hover { text-decoration: none; }
 
 #last-edited {
 	font-size: small;
-	padding-left: 20px;
-}
+	padding-left: 20px; }
 
-body > header > nav {
-	text-align: center;
-}
-body > header > nav > * {
-	margin-right: 16px;
-}
+body > header > nav { text-align: center; }
+body > header > nav > * { margin-right: 16px; }
 
