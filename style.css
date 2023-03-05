@@ -18,6 +18,16 @@ a:link { color: lightskyblue; }
 a:visited { color: violet; }
 a:hover { text-decoration: none; }
 
+a.button {
+	display: inline-block;
+	width: 88px;
+	height: 34px;
+	border-radius: 2px;
+	background-color: lightgray;
+	color: black;
+	text-align: center;
+	font-size: 10px; }
+
 #last-edited {
 	font-size: small;
 	padding-left: 20px; }
