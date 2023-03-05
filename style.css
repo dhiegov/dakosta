@@ -33,5 +33,7 @@ a.button {
 	padding-left: 20px; }
 
 body > header > nav { text-align: center; }
-body > header > nav > * { margin-right: 16px; }
+body > header > nav > * { margin: 0px 8px; }
+
+body > footer { text-align: center; }
 
